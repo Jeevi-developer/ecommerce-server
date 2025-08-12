@@ -1,6 +1,6 @@
-const express = require("express");
+import express from "express";
 const router = express.Router();
-const Product = require("../models/Product");
+import Product from "../models/Product.js";  // <-- add .js extension here
 
 // GET /api/products/ - list all products
 router.get("/", async (req, res) => {
@@ -49,4 +49,5 @@ router.get("/suggestions", async (req, res) => {
   }
 });
 
-module.exports = router;
+export default router;
+
