@@ -4,8 +4,8 @@
     "name": "Silk Sarees",
     "oldprice": 30.0,
     "newprice": 24.0,
-    "image1": "http://localhost:3001/images/silk-cotton-1.webp",
-    "image2": "http://localhost:3001/images/silk-cotton-2.webp",
+    "image1": "https://ecommerce-server.onrender.com/images/silk-cotton-1.webp",
+    "image2": "https://ecommerce-server.onrender.com/images/silk-cotton-2.webp",
     "discount": "20%",
     "soldout": false
   },
@@ -14,8 +14,8 @@
     "name": "Poonam Sarees",
     "oldprice": 30.0,
     "newprice": 24.0,
-    "image1": "http://localhost:3001/images/poonam-sarees-1.webp",
-    "image2": "http://localhost:3001/images/poonam-sarees-2.png",
+    "image1": "https://ecommerce-server.onrender.com/images/poonam-sarees-1.webp",
+    "image2": "https://ecommerce-server.onrender.com/images/poonam-sarees-2.png",
     "discount": "20%",
     "soldout": false
   },
@@ -24,8 +24,8 @@
     "name": "Girls Kids wear",
     "oldprice": 55.0,
     "newprice": 44.0,
-    "image1": "http://localhost:3001/images/kids-wear-girls.jpg",
-    "image2": "http://localhost:3001/images/kids-wear-girls.jpg",
+    "image1": "https://ecommerce-server.onrender.com/images/kids-wear-girls.jpg",
+    "image2": "https://ecommerce-server.onrender.com/images/kids-wear-girls.jpg",
     "discount": "20%",
     "soldout": false
   }
